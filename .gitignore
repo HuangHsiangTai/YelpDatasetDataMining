@@ -1,3 +1,4 @@
 *.RDS
 yelpDatasetResearch_cache
 yelp_dataset_challenge_academic_dataset
+.Rhistory
